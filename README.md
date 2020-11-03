@@ -5,7 +5,7 @@ About me:
 - I’m working as **Software Architect** and **Software Consultant**.
 - I’m Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)) in the **Developer Technologies** and **Artificial Intelligence** categories.
 - I’m an enthusiast of **Internet of Things**, **Bots** and **Artificial Intelligence**.
-- I'm a Speaker, Organizer of [Canal .NET](https://www.youtube.com/canaldotnet), [Coding Night](https://www.youtube.com/codingnight), [André Secco Channel](https://www.youtube.com/andresecco) and [DevShow Podcast](https://devshow.com.br)
+- I'm Speaker and Organizer of [Canal .NET](https://www.youtube.com/canaldotnet), [Coding Night](https://www.youtube.com/codingnight), [André Secco Channel](https://www.youtube.com/andresecco) and [DevShow Podcast](https://devshow.com.br)
 
 #### Follow me:
 [![Site Badge](https://img.shields.io/badge/-Website%2fBlog-blue?style=flat-square&logo=website&logoColor=white&link=https://andresecco.com.br/)](https://andresecco.com.br/)
