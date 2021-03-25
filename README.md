@@ -19,3 +19,11 @@ About me:
 [![Youtube Badge](https://img.shields.io/badge/-Canal&nbsp;.NET-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://www.youtube.com/canaldotnet)](https://www.youtube.com/canaldotnet)
 [![Youtube Badge](https://img.shields.io/badge/-Coding&nbsp;Night-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://www.youtube.com/codingnight)](https://www.youtube.com/codingnight)
 [![Podcast Badge](https://img.shields.io/badge/-DevShow&nbsp;Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white&link=https://devshow.com.br)](https://devshow.com.br)
+
+<p align="justify">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreluizsecco&show_icons=true&count_private=true&theme=algolia" />
+</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizsecco&layout=compact&theme=algolia" />
+</a>
