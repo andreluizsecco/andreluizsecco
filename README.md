@@ -5,7 +5,8 @@ About me:
 - I’m working as **Software Architect** and **Software Consultant**.
 - I’m Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)) in the **Developer Technologies** and **Artificial Intelligence** categories.
 - I’m an enthusiast of **Internet of Things**, **Bots** and **Artificial Intelligence**.
-- I'm Speaker and Organizer of [Canal .NET](https://www.youtube.com/canaldotnet), [Coding Night](https://www.youtube.com/codingnight), [André Secco Channel](https://www.youtube.com/andresecco) and [DevShow Podcast](https://devshow.com.br)
+- I'm Speaker and Organizer of [Canal .NET](https://www.youtube.com/canaldotnet), [Coding Night](https://www.youtube.com/codingnight), [André Secco Channel](https://www.youtube.com/andresecco) and [DevShow Podcast](https://devshow.com.br).
+- I've a discord community to answer questions, share knowledge and exclusive technical content. Participate [here](http://bit.ly/andresecco_discord).
 
 #### Follow me:
 [![Site Badge](https://img.shields.io/badge/-Website%2fBlog-blue?style=flat-square&logo=website&logoColor=white&link=https://andresecco.com.br/)](https://andresecco.com.br/)
@@ -19,6 +20,7 @@ About me:
 [![Youtube Badge](https://img.shields.io/badge/-Canal&nbsp;.NET-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://www.youtube.com/canaldotnet)](https://www.youtube.com/canaldotnet)
 [![Youtube Badge](https://img.shields.io/badge/-Coding&nbsp;Night-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://www.youtube.com/codingnight)](https://www.youtube.com/codingnight)
 [![Podcast Badge](https://img.shields.io/badge/-DevShow&nbsp;Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white&link=https://devshow.com.br)](https://devshow.com.br)
+[![Discord Community](https://img.shields.io/badge/-Discord&nbsp;Community-6f84d2?style=flat-square&labelColor=6f84d2&logo=discord&logoColor=white&link=http://bit.ly/andresecco_discord)](http://bit.ly/andresecco_discord)
 
 <p align="justify">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreluizsecco&show_icons=true&count_private=true&theme=algolia" />
