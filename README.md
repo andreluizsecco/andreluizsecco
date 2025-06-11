@@ -2,7 +2,7 @@
 
 About me:
 
-- I’m working as **Software Architect** and **Software Consultant**.
+- I’m working as **Software & Solutions Architect** and **Software Consultant**.
 - I’m 8x Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)).
 - I’m an enthusiast of **Internet of Things**, **Bots** and **Artificial Intelligence**.
 - I'm Speaker and Organizer of [Canal .NET](https://www.youtube.com/canaldotnet), [Coding Night](https://www.youtube.com/codingnight), [André Secco Channel](https://www.youtube.com/andresecco) and [DevShow Podcast](https://devshow.com.br).
