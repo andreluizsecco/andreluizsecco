@@ -23,8 +23,7 @@ About me:
 [![Discord Community](https://img.shields.io/badge/-Discord&nbsp;Community-6f84d2?style=flat-square&labelColor=6f84d2&logo=discord&logoColor=white&link=http://bit.ly/andresecco_discord)](http://bit.ly/andresecco_discord)
 
 <p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreluizsecco&show_icons=true&count_private=true&theme=algolia" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizsecco&layout=compact&theme=algolia" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">
+      <img  alt="andreluizsecco's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/andreluizsecco?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" />
+    </a>
 </p>
